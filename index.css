@@ -1,0 +1,10 @@
+body {
+  background-color:  blue;
+  flex-direction: row;
+}
+
+
+p {
+  Color: red;
+  text-align: center;
+}
